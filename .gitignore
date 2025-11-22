@@ -3,4 +3,4 @@
 .idea/myychat.iml
 .idea/vcs.xml
 .idea/inspectionProfiles/Project_Default.xml
-node_modules/**
+node_modules/
